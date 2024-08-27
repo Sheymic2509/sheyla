@@ -1,0 +1,66 @@
+*
+{
+    margin:10px;
+}
+.padre
+{
+    background-color: indianred;
+
+  
+}
+.uno
+{
+    background-color:  crimson;
+    padding: 20px;
+    border-radius: 700px;
+  width: 330px;
+ 
+}
+.dos
+{
+    background-color:blueviolet;
+    padding: 20px;
+    border-radius: 700px;
+    width: 270px;
+
+}
+.tres
+{
+    background-color: darkmagenta;
+    padding: 20px;
+    border-radius: 700px;
+    width: 230px;
+    
+}
+.cuatro
+{
+    background-color:  red;
+    padding: 20px;
+    border-radius: 700px;
+    width: 180px;
+  
+}
+.cinco
+{
+    background-color: pink;
+    padding: 20px;
+    border-radius: 700px;
+    width: 130px;
+    
+}
+.seis
+{
+    background-color: darkmagenta;
+    padding: 20px;
+    border-radius: 700px;
+    width: 80px;
+   
+}
+.siete
+{
+    background-color: fuchsia;
+    padding: 20px;
+    border-radius: 700px;
+    width: 15px;
+    
+}
